@@ -8,6 +8,7 @@
 - 📫 LinkedIn: [Bruno Lopes de Paiva](https://www.linkedin.com/in/bruno-lopes-de-paiva-a35ab4198/)
 
 ## Conhecimentos
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoLoPaiva&layout=compact&theme=github_dark)](https://github.com/BrunoLoPaiva/github-readme-stats)
 
 Aqui estão as principais tecnologias e linguagens com as quais trabalho:
 <div style="display: inline_block"><br>
@@ -34,6 +35,9 @@ Aqui estão as principais tecnologias e linguagens com as quais trabalho:
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
 </div>
+<br>
+
+
 
 ## Projetos
 
@@ -46,4 +50,5 @@ Aqui estão alguns dos meus projetos recentes:
    ![GIF](https://media.tenor.com/3MuX4AU08SMAAAAC/cthulhu-illithids.gif)
    
 Fique à vontade para explorar meus repositórios para mais projetos e contribuições!
+
 
