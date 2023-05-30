@@ -43,7 +43,7 @@ Aqui estão outras tecnologias com as quais trabalho:
 
 Aqui estão alguns dos meus projetos recentes:
 
-1. [Voice Assistant - Python](https://brunolopaiva.github.io/Monsters/):
+1. [Voice Assistant - Python](https://github.com/BrunoLoPaiva/VoiceAssistant):
    Este é um programa em Python que utiliza a biblioteca SpeechRecognition para reconhecer a fala do usuário e responder a comandos específicos.<br> 
    This is a Python program that uses the SpeechRecognition library to recognize user speech and respond to specific commands.
 
