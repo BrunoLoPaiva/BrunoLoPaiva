@@ -59,9 +59,5 @@ Aqui estão alguns dos meus projetos recentes:
      <img height="100" src="https://media.tenor.com/3MuX4AU08SMAAAAC/cthulhu-illithids.gif">
    </p>
    
+
 Fique à vontade para explorar meus repositórios para mais projetos e contribuições!
-
-   
-Fique à vontade para explorar meus repositórios para mais projetos e contribuições!
-
-
