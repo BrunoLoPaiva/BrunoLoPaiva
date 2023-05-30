@@ -26,7 +26,7 @@ Aqui estão as principais tecnologias e linguagens com as quais trabalho:
 
 <br>
 
-Aqui estão as principais tecnologias e linguagens com as quais trabalho:
+Aqui estão outras tecnologias com as quais trabalho:
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -43,11 +43,24 @@ Aqui estão as principais tecnologias e linguagens com as quais trabalho:
 
 Aqui estão alguns dos meus projetos recentes:
 
-1. [Beast Hunters - Vue.js](https://brunolopaiva.github.io/Monsters/):
-  Aprimoramento do código gerado durante o curso de Vue.js da Cod3r. O objetivo é aplicar as funcionalidades aprendidas durante as aulas, aprimorando o código original e expandindo a experiência de jogo.<br> 
-  Enhancement of the code generated during the Vue.js course by Cod3r. The goal is to apply the functionalities learned during the classes, improving the original code and expanding the gaming experience.<br>
-  
-   ![GIF](https://media.tenor.com/3MuX4AU08SMAAAAC/cthulhu-illithids.gif)
+1. [Voice Assistant - Python](https://brunolopaiva.github.io/Monsters/):
+   Este é um programa em Python que utiliza a biblioteca SpeechRecognition para reconhecer a fala do usuário e responder a comandos específicos.<br> 
+   This is a Python program that uses the SpeechRecognition library to recognize user speech and respond to specific commands.
+
+   <p align="left">
+     <img height="100" src="https://i.pinimg.com/originals/92/99/40/929940c7800ad3868b0e7828d53073a7.gif">
+   </p>
+   
+2. [Beast Hunters - Vue.js](https://brunolopaiva.github.io/Monsters/):
+   Aprimoramento do código gerado durante o curso de Vue.js da Cod3r. O objetivo é aplicar as funcionalidades aprendidas durante as aulas, aprimorando o código original e expandindo a experiência de jogo.<br> 
+   Enhancement of the code generated during the Vue.js course by Cod3r. The goal is to apply the functionalities learned during the classes, improving the original code and expanding the gaming experience.<br>
+   
+   <p align="left">
+     <img height="100" src="https://media.tenor.com/3MuX4AU08SMAAAAC/cthulhu-illithids.gif">
+   </p>
+   
+Fique à vontade para explorar meus repositórios para mais projetos e contribuições!
+
    
 Fique à vontade para explorar meus repositórios para mais projetos e contribuições!
 
