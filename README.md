@@ -8,7 +8,7 @@
 - 📫 LinkedIn: [Bruno Lopes de Paiva](https://www.linkedin.com/in/bruno-lopes-de-paiva-a35ab4198/)
 
 ## Conhecimentos
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoLoPaiva&layout=compact&theme=github_dark)](https://github.com/BrunoLoPaiva/github-readme-stats)
+[![BrunoLoPaiva's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoLoPaiva&exclude_repo=&hide=&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Aqui estão as principais tecnologias e linguagens com as quais trabalho:
 <div style="display: inline_block"><br>
