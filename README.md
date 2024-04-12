@@ -2,7 +2,7 @@
 
 ## Sobre mim
 - 👨‍🎓 Graduado em Análise e Desenvolvimento de Sistemas.
-- 🎓 Pós-graduando em: Inteligência Artificial, Engenharia de Software e Gestão e Governança de TI.
+- 🎓 Pós-graduado em Inteligência Artificial, Engenharia de Software e Gestão e Governança de TI.
 - 💻 Apaixonado por programação e tecnologia.
 - 🌱 Sempre em busca de aprendizado e aprimoramento.
 - 📫 LinkedIn: [Bruno Lopes de Paiva](https://www.linkedin.com/in/bruno-lopes-de-paiva-a35ab4198/)
